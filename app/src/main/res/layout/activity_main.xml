@@ -19,9 +19,9 @@
     <TextView
         android:id="@+id/text2"
         android:layout_width="wrap_content"
-        android:layout_height="50dp"
+        android:layout_height="wrap_content"
         android:background="#99F"
-        android:ems="@integer/material_motion_duration_medium_1"
+        android:ems="20"
         android:gravity="end|bottom"
         android:text="@string/textview"
         android:textColor="#FFF"

@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">My first app2022</string>
+    <string name="text">Text</string>
+    <string name="person_name">Person name</string>
+    <string name="phone">Phone</string>
+    <string name="number">Number</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="datetime">Datetime</string>
+    <string name="checkboxname">checkboxName</string>
+    <string name="textisselectablefalse">textIsSelectableFalse</string>
+    <string name="button_one">Button One</string>
+    <string name="button_two">Button Two</string>
+    <string name="hint">Hint</string>
+    <string name="textview">TextView and m and M and n and N fwefwfwfwefwe ewf wef wf wefwe fwefwefwefwef wef wefwefwefwef</string>
+    <string name="textlongmessage">TextLongMessage</string>
 </resources>
